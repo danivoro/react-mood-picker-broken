@@ -1,5 +1,5 @@
 function MoodPickerDemo(): JSX.Element {
-  let mood = "confused";
+  let mood = "happy";
 
   const handleMoodChangeToHappy = () => {
     mood = "happy";
